@@ -1,6 +1,6 @@
 # **Creating Google Forms**
 
-This code creates **Google Forms.** Originaly this code is completed by my sister `Krishna Agrawal` under me. It is a simple **Fun Quiz** for children to learn HTML. This part is completely for learning purpose.
+This code creates **Google Forms.** Originaly this code is completed by my sister `Krishna Agrawal` under `Me`. It is a simple **Fun Quiz** for children to learn HTML. This part is completely for learning purpose.
 
 ### **Things Learnt**
 
